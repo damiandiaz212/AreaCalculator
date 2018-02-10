@@ -7,6 +7,7 @@ This program can compute the area of a given shape, as selected by the user. The
 	-Triangle
 
 ##File Structure
+
 ```
 AreaCalculator/
 ├──README.md
